@@ -47,7 +47,9 @@ Reason: Highest AUC (0.6855) — a reliable indicator of ranking power for imbal
 ### Insights from User Segments
 #### Email Version
 Version | CTR
+
 Generic | 7.93%
+
 Personalized | 12.78% 
 
 #### Day of Week
@@ -67,7 +69,7 @@ Sunday | 8.76%
 
 Friday | 7.41%
 
-Early to mid-week (Mon–Thurs) drives better engagement. Avoid sending on Fridays and weekends.
+Early to mid-week (Monday–Thursday) drives better engagement. Avoid sending on Fridays and weekends.
 
 #### User Purchase History
 Past Purchases | CTR
@@ -80,7 +82,7 @@ Past Purchases | CTR
 
 6+ | 13.34% 
 
-Users with more purchase history are more likely to engage. Segmenting by past behavior is crucial.
+Users with more purchase history are more likely to engage. Segmenting by past behaviour is crucial.
 
 - **Designed and implemented a statistically rigorous A/B testing pipeline** to evaluate email click-through rates (CTR), randomly assigning 50% of users to a control group and the top 20% (based on model-predicted probabilities) to a treatment group.
 
