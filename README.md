@@ -12,14 +12,23 @@ Yes. Based on the available features and user behavior data, we built several mo
 
 ### Model Performance (ROC AUC)
 Model | ROC AUC
+
 Logistic Regression | 0.6745
+
 Random Forest | 0.6002
+
 Gradient Boosting | 0.6855 
+
 Support Vector Machine | 0.5501
+
 K-Nearest Neighbors | 0.5731
+
 KNN Ensemble | 0.6058
+
 Neural Network | 0.6723
+
 XGBoost | 0.6815
+
 CatBoost | 0.6784
 
 Best Model: Gradient Boosting
@@ -43,21 +52,32 @@ Personalized | 12.78%
 
 #### Day of Week
 Weekday | CTR
+
 Tuesday | 12.05% 
+
 Wednesday | 12.03%
+
 Thursday | 11.84%
+
 Monday | 11.61%
+
 Saturday | 8.77%
+
 Sunday | 8.76%
+
 Friday | 7.41%
 
 Early to mid-week (Mon–Thurs) drives better engagement. Avoid sending on Fridays and weekends.
 
 #### User Purchase History
 Past Purchases | CTR
+
 0 | 3.83%
+
 1 | 9.28%
+
 2–5 | 10.85%
+
 6+ | 13.34% 
 
 Users with more purchase history are more likely to engage. Segmenting by past behavior is crucial.
